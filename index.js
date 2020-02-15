@@ -26,10 +26,10 @@ function johnLennonFacts(array) {
 //     var string = fact + "!!!";
 //     newArr.push(string);
 //   }
-// 
+//
 //   return newArr;
 // }
 
 function iLoveTheBeatles(string) {
-  
+
 }
