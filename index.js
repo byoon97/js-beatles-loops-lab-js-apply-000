@@ -21,14 +21,3 @@ function johnLennonFacts(array) {
   return newArr;
 }
 
-// function iLoveTheBeatles(string) {
-//   var array = [];
-//   do {
-//     string = array.push("I love the Beatles!");
-//     string += 1;
-//   } while (string < 15); {
-//
-//   }
-//
-//   return array;
-// }
