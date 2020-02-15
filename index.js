@@ -12,10 +12,12 @@ function theBeatlesPlay(array1, array2) {
 function johnLennonFacts(array) {
   var newArr = [];
 
+  let i = 0;
   while (i < array.length) {
     var fact = array[i];
     var string = fact + "!!!";
     newArr.push(string);
+    i += 1;
   }
 
   return newArr
